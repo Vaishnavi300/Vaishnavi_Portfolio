@@ -1,5 +1,5 @@
 # Vaishnavi_Portfolio
-#Tools Used:
+Tools Used:
 HTML
 CSS
 JavaScript
